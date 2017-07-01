@@ -1,0 +1,31 @@
+/* Excursion Landing Page Styles */
+
+body{
+	font-family: verdana, sans-serif;
+	background: black;
+	color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2{
+	font-size: 42px;
+	font-weight: 300;
+}
+
+p {
+	font-size: 21px;
+	color: gray;
+}
+
+.cta {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.footer {
+	text-align: right;
+}
